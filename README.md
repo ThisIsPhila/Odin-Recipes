@@ -1,3 +1,4 @@
 # odin-recipes
 
-Welcome to the Ultimate Recipe Website!
+Welcome to the Basic Recipe Website!
+Project started: 24 July
